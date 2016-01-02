@@ -1,0 +1,16 @@
+{
+  "name": "generator-yohello",
+  "version": "1.0.0",
+  "description": "A hello Yo genertor ",
+  "files": [
+    "genertors/app",
+    "genertors/router"
+  ],
+  "author": "Raj Bharath",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.2"
+  }
+}
